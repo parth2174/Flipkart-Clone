@@ -9,7 +9,6 @@ const Header = () => {
     return(
         <>
          <header>
-         <button style={{marginTop: "1%", marginLeft: "1%", position: "absolute"}} onClick="changemode()">Change Mode</button>
         
 
         <h2>Flipkart</h2>

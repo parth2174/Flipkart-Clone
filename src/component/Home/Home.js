@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './Home.css';
 
+
 //import { BrowserRouter,Route} from 'react-router-dom';
 
 
@@ -9,16 +10,25 @@ import './Home.css';
 
 
 const Home = () => {
+  
+
+  
 
  
   return(
+     
+        
+    
 
     <>
+    
     
     
        
        
       <div>
+       
+      
 
       
 
@@ -47,7 +57,7 @@ const Home = () => {
         </li>
         <li className="items">
           <img src="https://i.ibb.co/7tHxHG2/Mobiles.png" alt="" width="70px" height="70px" />
-          <h5 style={{marginLeft: "15%"}}>Mobiles</h5>
+          <Link style={{textDecoration: "none"}} to='/Mobiles'><h5 style={{marginLeft: "15%", color: "black"}}>Mobiles</h5></Link>
         </li>
         <li className="items">
           <img src="https://i.ibb.co/dQKzX99/Fashion.png" alt="" width="70px" height="70px" />
@@ -56,6 +66,7 @@ const Home = () => {
         <li className="items">
           <img src="https://i.ibb.co/McySGxD/Electronics.png" alt="" width="70px" height="70px" />
           <h5>Electronics</h5>
+            
         </li>
         <li className="items">
           <img src="https://i.ibb.co/rfhrk0Y/Home.jpg" alt="" width="70px" height="70px" />
@@ -304,6 +315,7 @@ const Home = () => {
         </>
 )
 }
+
 
 
 export default Home;

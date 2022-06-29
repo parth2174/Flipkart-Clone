@@ -1,0 +1,19 @@
+.mobdet{
+    width: 15%;
+    height: 58%;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 12%;
+}
+.pro{
+    height: 20px;
+    width: 40px;
+    background: rgb(14, 92, 4);
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 35%;
+    margin-top: 17.5%;
+    
+}

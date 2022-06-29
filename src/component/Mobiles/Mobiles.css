@@ -1,0 +1,119 @@
+.moblist{
+    width: 85%;
+    height: 43%;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+#moblisting{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.moblist1{
+    width: 85%;
+    height: 43%;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    position: absolute;
+    margin-top: 53%;
+    margin-left: 10%;
+}
+.moblist2{
+    width: 85%;
+    height: 43%;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    position: absolute;
+    margin-top: 75%;
+    margin-left: 10%;
+}
+.moblist3{
+    width: 85%;
+    height: 43%;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    position: absolute;
+    margin-top: 99%;
+    margin-left: 10%;
+}
+.moblist4{
+    width: 85%;
+    height: 43%;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    position: absolute;
+    margin-top: 121%;
+    margin-left: 10%;
+}
+.moblist5{
+    width: 85%;
+    height: 43%;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    position: absolute;
+    margin-top: 32%;
+    margin-left: 10%;
+}
+.pro0{
+    height: 20px;
+    width: 40px;
+    background: rgb(14, 92, 4);
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 25%; 
+    
+    
+}
+.pro1{
+    height: 20px;
+    width: 40px;
+    background: rgb(14, 92, 4);
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 25%; 
+    
+    
+}
+.pro2{
+    height: 20px;
+    width: 40px;
+    background: rgb(14, 92, 4);
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 25%; 
+    
+    
+}
+.pro3{
+    height: 20px;
+    width: 40px;
+    background: rgb(14, 92, 4);
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 25%; 
+    
+    
+}
+.pro4{
+    height: 20px;
+    width: 40px;
+    background: rgb(14, 92, 4);
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 25%; 
+    
+    
+}
+.pro5{
+    height: 20px;
+    width: 40px;
+    background: rgb(14, 92, 4);
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 25%; 
+    
+    
+}

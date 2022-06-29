@@ -3,6 +3,7 @@ import './Footer.css';
 
 const Footer = () => {
     return (
+      <React.Fragment>
         <footer className="footer">
         <div className="container">
           <div className="row">
@@ -98,6 +99,7 @@ const Footer = () => {
           </div>
         </div>
       </footer>
+      </React.Fragment>
     )
 }
 
